@@ -4,3 +4,7 @@ output.xml
 playwright-log.txt
 report.html
 /browser
+/logs
+
+##misc
+.DS_Store
