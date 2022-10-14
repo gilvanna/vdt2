@@ -1,4 +1,6 @@
-<img src="images/Robot-framework.webp" width="450" height="200">  
+<div align="center">
+  <img src="images/Robot-framework.webp" width="450" height="200">\
+</div>
 
 # Viver de Teste - Temporada 2 
 
