@@ -16,7 +16,7 @@ Do Login
 
 
 Start Test
-    New Browser        headless=False    browser=${BROWSER}
+    New Browser        headless=False
 
 Finish Test
     Take Screenshot
