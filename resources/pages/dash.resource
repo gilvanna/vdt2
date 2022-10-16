@@ -14,9 +14,9 @@ User Logged In
 
 
 Search User
-    [Arguments]        ${target}
+    [Arguments]          ${target}
 
-    Fill Text        input[placeholder^=Busque]    ${target}
+    Fill Text            input[placeholder^=Busque]    ${target}
     Click                css=button >> text=Buscar
 
 
