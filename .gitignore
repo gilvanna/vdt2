@@ -1,9 +1,4 @@
 ##logs and reports
-log.html
-output.xml
-playwright-log.txt
-report.html
-/browser
 /logs
 
 ##misc
